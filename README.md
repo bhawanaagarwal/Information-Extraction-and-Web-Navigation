@@ -1,7 +1,7 @@
 # Information-Extraction-and-Web-Navigation
 Automating Information Extraction and Web Navigation with PyTesseract and Google Search API
 
-This project focuses on simplifying the tasks of extracting information from images and efficiently navigating the web. We're using two tools: PyTesseract for converting images to text and a web crawler with the Google Search API. The main objective is to automate the process of getting a list of company's names from an image and then finding career page links online.
+This project focuses on simplifying the tasks of extracting information from images and efficiently navigating the web. We're using two tools: PyTesseract for converting images to text and a web crawler with the Google Search API. The main objective is to automate the process of getting a list of company names from an image and then finding career page links online.
 
 Starting with PyTesseract, it's a Python tool that helps us convert the visual data of company names from an image into readable text. This eliminates the need for manual data entry and ensures accuracy.
 
