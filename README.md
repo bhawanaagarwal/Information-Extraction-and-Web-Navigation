@@ -12,10 +12,10 @@ Unlike some other libraries that can be installed with a simple 'pip install' st
 
 Specifically:
 
-For Windows users, it's necessary to download the Tesseract executable file. The path to this executable needs to be specified in the PyTesseract configuration. This ensures that PyTesseract can utilize the Tesseract OCR engine correctly. Here is the link to download tesseract for windows
+For Windows users, it's necessary to download the Tesseract executable file. The path to this executable needs to be specified in the PyTesseract configuration. This ensures that PyTesseract can utilize the Tesseract OCR engine correctly. Here is the link to download tesseract for windows - https://github.com/UB-Mannheim/tesseract/wiki
 
 
-For macOS users, installation guidelines for Tesseract on a Mac are available. Following these guidelines ensures that PyTesseract functions seamlessly. Here is the link to install tesseract for mac
+For macOS users, installation guidelines for Tesseract on a Mac are available. Following these guidelines ensures that PyTesseract functions seamlessly. Here is the link to install tesseract for mac - https://tesseract-ocr.github.io/tessdoc/Installation.html
 
 If you want more information on tesseract, use the following resources:
 
