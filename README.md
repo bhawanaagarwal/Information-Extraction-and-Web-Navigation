@@ -7,7 +7,7 @@ Starting with PyTesseract, it's a Python tool that helps us convert the visual d
 
 Moving on to the web crawler, we use the Google Search API to search for career page links related to the identified companies. This integration makes our web searches more targeted and efficient, saving time and effort.
 
-# Important Note
+## Important Note
 Unlike some other libraries that can be installed with a simple 'pip install' statement, using PyTesseract requires an additional step due to its dependence on the Tesseract OCR engine. (OCR - Optical Character Recognition)
 
 Specifically:
